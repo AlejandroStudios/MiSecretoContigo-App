@@ -3,7 +3,7 @@
 **Una app privada para compartir secretos, pensamientos íntimos y confesiones personales con alguien especial.**  
 Creada para quienes valoran la privacidad, la conexión emocional y un espacio donde expresarse sin miedo ni juicios.
 
-![Versión](https://img.shields.io/badge/versión-1.3.1-blue)
+![Versión](https://img.shields.io/badge/versión-1.3.7-blue)
 ![Estado](https://img.shields.io/badge/estado-en%20desarrollo-orange)
 ![Privacidad](https://img.shields.io/badge/enfoque-intimidad%20y%20privacidad-critical)
 
